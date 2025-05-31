@@ -32,15 +32,6 @@ I'm a passionate Computer Engineering student with a thirst for knowledge and a 
 
 ---
 
-## 🚧 Projects I'm Proud Of
-
-- 📂 **Terminal Text Editor in Python** – A command-line text editor with file I/O and keyboard navigation.
-- 🔐 **Banking System in C** – A secure banking app built as a final semester project.
-- 💡 **Logic Circuit Simulator** – Visual BCD 9's complement generator using K-Maps.
-- 🌐 **Personal Portfolio Website** – Currently under construction. Stay tuned!
-
----
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
