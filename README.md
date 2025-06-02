@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;Frontend+Dev+%7C+C%2FC%2B%2B+Programmer;Open+Source+Enthusiast;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,6 +62,5 @@ I'm a passionate Computer Engineering student with a thirst for knowledge and a 
 
 ---
 
-> “Talk is cheap. Show me the code.” – *Linus Torvalds*
 
 🌟 Thanks for scrolling all the way down — you're awesome!
