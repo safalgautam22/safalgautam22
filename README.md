@@ -3,36 +3,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;" alt="Typing SVG" />
 </p>
 
----
+# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Safal Gautam
 
-# 👋 Hello, I'm Safal Gautam
+## 👨‍💻 Aspiring Computer Engineer | Web Dev Enthusiast | Code Artist
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Man Coding GIF" />
+I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted to code, caffeine, and continuous learning. I love building projects that are both useful and elegant — blending logic with design.
 
-I'm a passionate Computer Engineering student with a thirst for knowledge and a love for building creative, useful, and beautiful digital things.
-
-- 🌱 Learning **Frontend Web Development**
-- 🧠 Exploring **JavaScript, C/C++, Python**
-- 💻 Collaborating on projects, solving problems
-- 🚀 Trying to leave the web better than I found it
-
-<br clear="right"/>
+- 🌍 Based in **Nepal**
+- 🧠 Currently learning **Frontend Development**, exploring **C/C++, JavaScript, Python**
+- ✉️ Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
+- 💬 Ask me about tech, logic gates, or how many bugs I squashed this week
 
 ---
 
-## 🛠 My Skills
+### 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,cpp,git,github,vscode,figma,linux" /></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+### 🌐 Let's Connect
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/gtm-safal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/gtm-safal">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gtm-safal&show_icons=true&theme=algolia&count_private=true" height="180em"/>
@@ -41,26 +46,30 @@ I'm a passionate Computer Engineering student with a thirst for knowledge and a 
 
 ---
 
-## 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gtm-safal&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=gtm-safal&theme=algolia&hide_border=false" />
 </p>
 
 ---
 
-## 🌍 Let's Connect
+### 📈 Contribution Graph
 
-- 🔗 [GitHub](https://github.com/gtm-safal)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gtm-safal/)
-
----
-
-## 🔎 Visitor Counter
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=gtm-safal&style=flat-square&color=58a6ff)
+<p align="center">
+  <a href="https://github.com/gtm-safal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=gtm-safal&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
+  </a>
+</p>
 
 ---
 
+### 🧭 Visitor Counter
 
-🌟 Thanks for scrolling all the way down — you're awesome!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gtm-safal&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
+</p>
+
+---
+
+<p align="center"><b>🌟 Thanks for scrolling all the way down — you're awesome!</b></p>
