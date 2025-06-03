@@ -24,7 +24,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,cpp,git,github,vscode,figma,linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux" /></a>
 </p>
 
 ---
