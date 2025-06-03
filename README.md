@@ -5,9 +5,10 @@
 
 # Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Safal Gautam
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Man Coding GIF" />
 
 ## 👨‍💻 Aspiring Computer Engineer | Web Dev Enthusiast | Code Artist
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Man Coding GIF" />
 
 I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted to code, caffeine, and continuous learning. I love building projects that are both useful and elegant — blending logic with design.
 
