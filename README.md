@@ -32,10 +32,10 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🌐 Let's Connect
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/gtm-safal/">
+  <a href="https://www.linkedin.com/in/gautam-safal/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/gtm-safal">
+  <a href="https://github.com/gautam-safal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -45,8 +45,8 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gtm-safal&show_icons=true&theme=algolia&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtm-safal&layout=compact&theme=algolia&langs_count=8" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gautam-safal&show_icons=true&theme=algolia&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-safal&layout=compact&theme=algolia&langs_count=8" height="180em"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gtm-safal&theme=algolia&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=gautam-safal&theme=algolia&hide_border=false" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 
 <p align="center">
   <a href="https://github.com/gtm-safal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=gtm-safal&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=gautam-safal&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gtm-safal&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=gautam-safal&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
 </p>
 
 ---
