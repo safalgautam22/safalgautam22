@@ -62,7 +62,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/gtm-safal">
+  <a href="https://github.com/safal-gautamm">
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
   </a>
 </p>
