@@ -24,7 +24,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux" /></a>
+  <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux"><img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux" /></a>
 </p>
 
 ---
@@ -62,7 +62,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/safal-gautamm">
+  <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
   </a>
 </p>
