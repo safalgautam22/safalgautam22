@@ -74,7 +74,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 
 <!-- 3D Contribution Chart -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 ---
 
