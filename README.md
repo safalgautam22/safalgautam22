@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;" alt="Typing SVG" />
 </p>
 
-# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Safal Gautam
 
+# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Safal Gautam
 
 ## 👨‍💻 Aspiring Computer Engineer | Web Dev Enthusiast | Code Artist
 
@@ -24,19 +24,24 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux"><img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux" /></a>
+  <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" />
+  </a>
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/safal-gautamm/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="mailto:contact@safalgautam.com.np">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://github.com/safal-gautamm">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/safal-gautamm/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
@@ -67,6 +72,10 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
   </a>
 </p>
 
+<!-- 3D Contribution Chart -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</p>
 ---
 
 ### 🧭 Visitor Counter
