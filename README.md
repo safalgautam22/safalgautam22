@@ -1,33 +1,40 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Safal+Gautam+%F0%9F%91%8B;" alt="Typing SVG" />
 </p>
 
-
-# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Safal Gautam
-
-## 👨‍💻 Aspiring Computer Engineer | Web Dev Enthusiast | Code Artist
+<!-- About Me -->
+# 👨‍💻 About Me
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Man Coding GIF" />
 
-I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted to code, caffeine, and continuous learning. I love building projects that are both useful and elegant — blending logic with design.
+I'm Safal Gautam — a Computer Engineering student from the hills of Nepal 🇳🇵.  
+Fueled by curiosity, caffeine, and clean code.  
+I turn ideas into logic, and logic into elegant digital art.
 
 - 🌍 Based in **Nepal**
 - 🧠 Currently learning **Frontend Development**, exploring **C/C++, JavaScript, Python**
-- ✉️ Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
 - 💬 Ask me about tech, logic gates, or how many bugs I squashed this week
+- ✉️ Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
 
 <br clear="right"/>
 
 ---
 
-### 🛠 Tech Stack
+### ⚒️ My Arsenal of Tools
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🎬 [MovieVault](https://github.com/safal-gautamm/movievault) — Terminal-based movie manager in Python  
+- 🌐 [Personal Portfolio](https://safalgautam.com.np) — Responsive HTML/CSS site showcasing my work
 
 ---
 
@@ -59,7 +66,7 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=safal-gautamm&theme=algolia&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=safal-gautamm&theme=algolia&hide_border=true" />
 </p>
 
 ---
@@ -72,9 +79,12 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
   </a>
 </p>
 
-<!-- 3D Contribution Chart -->
+---
+
+### 🧊 3D Contribution Chart
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 ---
 
@@ -86,4 +96,4 @@ I'm a passionate Computer Engineering student from Nepal 🇳🇵 who's addicted
 
 ---
 
-<p align="center"><b>🌟 Thanks for scrolling all the way down — you're awesome!</b></p>
+<p align="center"><b>🚀 Thanks for scrolling — now go build something epic!</b></p>
