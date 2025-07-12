@@ -94,6 +94,4 @@ I turn ideas into logic, and logic into elegant digital art.
   <img src="https://komarev.com/ghpvc/?username=safal-gautamm&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
 </p>
 
----
-
 <p align="center"><b>🚀 Thanks for scrolling — now go build something epic!</b></p>
