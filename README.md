@@ -25,7 +25,7 @@ I turn ideas into logic, and logic into elegant digital art.
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" height="20px" width="20px"/>
   </a>
 </p>
 
@@ -67,8 +67,8 @@ I turn ideas into logic, and logic into elegant digital art.
 ### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" target="_blank"/>
+  <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true"  target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true"/>
   </a>
 </p>
 
@@ -77,7 +77,7 @@ I turn ideas into logic, and logic into elegant digital art.
 ### 🧊 3D Contribution Chart
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" target="_blank"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </p>
 
 ---
