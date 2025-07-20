@@ -31,13 +31,6 @@ I turn ideas into logic, and logic into elegant digital art.
 
 ---
 
-### 🚀 Featured Projects
-
-- 🎬 [MovieVault](https://github.com/safal-gautamm/movievault) — Terminal-based movie manager in Python  
-- 🌐 [Personal Portfolio](https://safalgautam.com.np) — Responsive HTML/CSS site showcasing my work
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -75,7 +68,7 @@ I turn ideas into logic, and logic into elegant digital art.
 
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safal-gautamm&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" target="_blank"/>
   </a>
 </p>
 
@@ -84,7 +77,7 @@ I turn ideas into logic, and logic into elegant digital art.
 ### 🧊 3D Contribution Chart
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" target="_blank"/>
 </p>
 
 ---
