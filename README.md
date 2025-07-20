@@ -25,7 +25,7 @@ I turn ideas into logic, and logic into elegant digital art.
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" height="120px" width="120px"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,figma,linux,ubuntu,arch" height="250px" width="250px"/>
   </a>
 </p>
 
