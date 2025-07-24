@@ -41,6 +41,11 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/-Drogon-lightgrey?style=for-the-badge&logo=https://raw.githubusercontent.com/yourUser/yourRepo/main/assets/drogon-logo-black.svg&logoWidth=20" alt="Drogon API>
 
+  <!-- Drogon -->
+  <a href="https://drogon.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Drogon-555555?style=for-the-badge&logo=https://raw.githubusercontent.com/safal-gautamm/pwdmanager_api/main/drogon.svg&logoWidth=20&logoColor=white" alt="Drogon API"/>
+  </a>
+
 </p>
 
 ---
