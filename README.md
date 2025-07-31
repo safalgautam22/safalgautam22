@@ -51,10 +51,10 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
   <a href="mailto:contact@safalgautam.com.np" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/safalgautam06" target="_blank" rel="noreferrer">
+  <a href="https://github.com/safalgautam22/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/safalgautam06/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/safalgautam22/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -64,8 +64,8 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safalgautam06&show_icons=true&theme=algolia&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalgautam06&layout=compact&theme=algolia&langs_count=8" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safalgautam22&show_icons=true&theme=algolia&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalgautam22&layout=compact&theme=algolia&langs_count=8" height="180em"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=safalgautam06&theme=algolia&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=safalgautam22&theme=algolia&hide_border=true" />
 </p>
 
 ---
@@ -81,8 +81,8 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
 ### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safalgautam06&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safalgautam06&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true"/>
+  <a href="https://github-readme-activity-graph.vercel.app/graph/?username=safalgautam22&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=safalgautam22&bg_color=1F222E&color=58A6FF&line=3ABEFF&point=FFFFFF&hide_border=true"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
 ### 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=safalgautam06&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=safalgautam22&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
 </p>
 
 <p align="center"><b>Thanks for visiting my profile!</b></p>
