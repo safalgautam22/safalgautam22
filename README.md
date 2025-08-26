@@ -5,7 +5,7 @@
 
 # About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:25vw; height:calc(25vw * 0.75);" align="right"/>
 
 I’m **Safal Gautam**, a Computer Engineering student from Nepal.  
 I enjoy writing clean, simple code and learning something new every day.  
