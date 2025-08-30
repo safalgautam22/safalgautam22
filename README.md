@@ -5,11 +5,21 @@
 
 # About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     alt="Coding GIF" 
-     align="right"
-     width="300px"
-     style="max-width: 100%; height: auto;" />
+<picture>
+  <!-- Mobile (max 600px wide) -->
+  <source media="(max-width:600px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
+  
+  <!-- Tablet / PC with sidebar -->
+  <source media="(max-width:1000px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+  
+  <!-- Large screens -->
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding GIF" 
+    align="right" 
+    style="max-width:100%; height:auto;" 
+    width="300"/>
+</picture>
 
 I’m **Safal Gautam**, a Computer Engineering student from Nepal.  
 I enjoy writing clean, simple code and learning something new every day.  
@@ -19,6 +29,7 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
 - Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
 
 <br clear="right"/>
+
 
 ---
 
