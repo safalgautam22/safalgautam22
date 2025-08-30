@@ -5,38 +5,26 @@
 
 # About Me
 
-<picture>
-  <!-- Mobile (max 600px wide) -->
-  <source media="(max-width:600px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
-  
-  <!-- Tablet / PC with sidebar -->
-  <source media="(max-width:1000px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
-  
-  <!-- Large screens -->
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding GIF" 
-    align="right" 
-    style="max-width:100%; height:auto;" 
-    width="300"/>
-</picture>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="min-width:170px;  width:25vw; height:calc(25vw * 0.75);" align="right"/>
 
-I’m **Safal Gautam**, a Computer Engineering student from Nepal.  
-I enjoy writing clean, simple code and learning something new every day.  
-Currently improving my **frontend development** skills and exploring **C, C++, JavaScript, and Python**.
+Hello! I’m **Safal Gautam**, a passionate Computer Engineering student from Nepal.  
+I love **writing clean code**, learning new tools, and turning ideas into simple, working projects.  
 
-- Based in **Nepal**  
-- Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
+Even though I’m still learning, I’ve explored **C, C++, Python, and JavaScript**, and I’m actively working on **frontend development** and small practical projects.  
 
-<br clear="right"/>
+Some things about me:  
 
+- 📍 Based in **Nepal**  
+- 💌 Reach me at: [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)  
+- 🏗️ Always experimenting with new coding techniques and small projects  
+
+<br />
 
 ---
 
-### ⚒️ My Arsenal of Tools
+### ⚒️ Tools & Technologies I’m Learning / Using
 
 <p align="center">
-  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -55,8 +43,9 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Drogon-555555?style=for-the-badge&logo=https://raw.githubusercontent.com/safal-gautamm/pwdmanager_api/main/drogon.svg&logoWidth=20&logoColor=white" alt="Drogon API"/>
-
 </p>
+
+*Note:* This is my **learning toolkit**—I’m always discovering new languages and frameworks.  
 
 ---
 
@@ -117,4 +106,4 @@ Currently improving my **frontend development** skills and exploring **C, C++, J
   <img src="https://komarev.com/ghpvc/?username=safalgautam22&style=flat-square&color=58a6ff" alt="Visitor Count Badge"/>
 </p>
 
-<p align="center"><b>Thanks for visiting my profile!</b></p>
+<p align="center"><b>Thanks for stopping by my profile! Still learning, still coding. 🚀</b></p>
