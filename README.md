@@ -4,7 +4,7 @@
 </p>
 
 # About Me
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:29vw; height:auto;" align="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:29vw; height:auto; padding:0; margin:0;" align="right"/>
 
 
 Hello! I’m **Safal Gautam**, a passionate Computer Engineering student from Nepal.  
